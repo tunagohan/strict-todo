@@ -8,4 +8,9 @@ class TodoTestFile
   def execute
     # example
   end
+
+  # TODO(tunagohan:2050/01/28): fix...
+  def safe
+    # example
+  end
 end
