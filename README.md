@@ -1,5 +1,7 @@
 # Strict TODO management
 
+https://rubygems.org/gems/strict-todo
+
 We leave a lot of irresponsible TODO inside the application.
 
 It's too dirty and stupid.
