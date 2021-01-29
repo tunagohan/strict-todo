@@ -88,6 +88,10 @@ common:
 bundle exec strict_todo_check
 ```
 
+## Result Sample
+
+![image](https://user-images.githubusercontent.com/19791597/106251052-d929bc80-6257-11eb-9374-1eae5223af74.png)
+
 ## Contributing
 
 Come on anything :)
