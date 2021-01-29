@@ -1,9 +1,0 @@
-#!/usr/bin/env ruby
-#
-# TODO: やることリストを洗い出す
-
-require_relative '../lib/strict_todo'
-require_relative '../lib/strict_todo/find_word'
-require_relative '../lib/strict_todo/executable'
-
-StrictTodo::Executable.perform

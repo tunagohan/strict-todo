@@ -6,7 +6,7 @@ module StrictTodo
   class Config
     private_class_method :new
 
-    COMMON = YAML.safe_load(File.read("config/config.yml")).fetch("common").freeze
+    COMMON = YAML.safe_load(File.read("./strict_config.yml")).fetch("common").freeze
 
     # @return [Array] 除外対象
     attr_reader :exclude_match
