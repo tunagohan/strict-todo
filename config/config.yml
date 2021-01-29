@@ -1,0 +1,16 @@
+common:
+  exclude:
+    - 'node_modules'
+    - 'tmp'
+    - 'vendor'
+    - '.git'
+    - 'Gemfile.lock'
+    - 'lib'
+    - 'db'
+  extension:
+    - '.rb'
+    - '.erb'
+    - '.vue'
+    - '.css'
+    - '.scss'
+    - ''
